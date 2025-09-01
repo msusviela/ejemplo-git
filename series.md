@@ -4,3 +4,4 @@
 - [ ] The Good Place
 - [ ] Dexter
 - [ ] Lost 
+- [ ] Rick y Morty
